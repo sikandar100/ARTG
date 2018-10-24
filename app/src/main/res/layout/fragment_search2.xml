@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell.vrtg.Search">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+        <EditText
+            android:id="@+id/searchText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="21dp"
+            android:layout_marginTop="191dp"
+            android:layout_toStartOf="@+id/searchBtn"
+            android:ems="10"
+            android:hint="Enter Search Keyword:"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/searchBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignTop="@+id/searchText"
+            android:layout_marginEnd="32dp"
+            android:text="Search" />
+
+
+</RelativeLayout>

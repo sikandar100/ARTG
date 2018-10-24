@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "105988862252",
+    "firebase_url": "https://vrtg-5e0f5.firebaseio.com",
+    "project_id": "vrtg-5e0f5",
+    "storage_bucket": "vrtg-5e0f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105988862252:android:577b1390ff2dc535",
+        "android_client_info": {
+          "package_name": "com.example.dell.vrt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105988862252-k7lce6agkhou97k34reonbl9ltu74sib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.vrt",
+            "certificate_hash": "ea94dcae9d6f753d9b90696c910416e79c637896"
+          }
+        },
+        {
+          "client_id": "105988862252-td2osrs8ef4t6tntfpp1rk8moldh9mj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC54hM1y5e3pcbn0cRsSctELR03NW3ZJ5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105988862252-td2osrs8ef4t6tntfpp1rk8moldh9mj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105988862252:android:336549ee02dc107a",
+        "android_client_info": {
+          "package_name": "com.example.dell.vrtg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105988862252-8i5vvk2qg3a5220tnbg3eqg67sf3bbio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.vrtg",
+            "certificate_hash": "7a741c913d5771fb0dfbf27dea4a0a1cb5bd616c"
+          }
+        },
+        {
+          "client_id": "105988862252-ekrct5qk8di07blqujr4cptren9r85j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.vrtg",
+            "certificate_hash": "ea94dcae9d6f753d9b90696c910416e79c637896"
+          }
+        },
+        {
+          "client_id": "105988862252-td2osrs8ef4t6tntfpp1rk8moldh9mj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC54hM1y5e3pcbn0cRsSctELR03NW3ZJ5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105988862252-td2osrs8ef4t6tntfpp1rk8moldh9mj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

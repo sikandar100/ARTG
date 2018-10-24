@@ -1,0 +1,39 @@
+[
+{
+	"latitude" : 33.749231,
+	"longitude" : 73.139169,
+	"altitude" : 70,
+	"place" : "PIDE ",
+	"data" : "pakistan institute of development economics
+	"
+},
+ {
+ 	"latitude" : 33.748272,
+ 	"longitude" : 73.151331,
+ 	"altitude" : 70,
+ 	"place" : "admin",
+ 	"data" : "university administration"
+ }
+ ,
+  {
+  	"latitude" : 33.745835,
+  	"longitude" : 73.131012,
+  	"altitude" : 70,
+  	"place" : "Cricket Ground ",
+  	"data" : "Cricket Ground"
+  },
+    {
+    	"latitude" : 33.746465,
+    	"longitude" : 73.134586,
+    	"altitude" : 70,
+    	"place" : "Chem Hut",
+    	"data" : "Chemistry Hut"
+    },
+      {
+      	"latitude" : 33.744698,
+      	"longitude" : 73.136771,
+      	"altitude" : 70,
+      	"place" : "Majeed Hut",
+      	"data" : "Majeed Abad"
+      }
+]
